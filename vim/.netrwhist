@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/ethan/ansible/roles/node_exporter.service/tasks'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_6='/Users'
+let g:netrw_dirhist_5='/Users/ethan'
+let g:netrw_dirhist_4='/Users/ethan/.oh-my-zsh'
+let g:netrw_dirhist_3='/Users/ethan/.oh-my-zsh/plugins'
+let g:netrw_dirhist_2='/Users/ethan/.oh-my-zsh/plugins/ansible'
+let g:netrw_dirhist_1='/Users/ethan/.config'
